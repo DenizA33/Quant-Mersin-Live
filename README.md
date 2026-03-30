@@ -17,4 +17,4 @@ This project is a **Real-Time Financial Data Analytics** tool built with **Pytho
 Designed as a bridge between **Quantitative Finance** and **Modern Web Applications**, this tool demonstrates my ability to process complex data sets and deliver them through a professional interface.
 ## 🔗 [Live Demo - Click Here to Run the App](BURAYA_SİTE_LİNKİNİ_YAPIŞTIR)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://quant-mersin-live-h92mqzofbbcge6znafgmgo.streamlit.app](https://quant-mersin-live-h92mqzofbbcge6znafgmgo.streamlit.app/))
+[[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://quant-mersin-live-h92mqzofbbcge6znafgmgo.streamlit.app](https://quant-mersin-live-h92mqzofbbcge6znafgmgo.streamlit.app/))](https://quant-mersin-live-h92mqzofbbcge6znafgmgo.streamlit.app/)
